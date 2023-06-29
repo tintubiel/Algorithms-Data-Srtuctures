@@ -1,3 +1,3 @@
 # Algorithms-Data_Srtuctures
 
-![Alt-текст](https://disk.yandex.ru/i/RLMEvmyz4BYp6A)
+![Сертификат](https://github.com/tintubiel/Algorithms-Data_Srtuctures/blob/main/Sertificate.png)
